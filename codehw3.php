@@ -173,7 +173,7 @@ echo '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2005_P
         
     $flipcount = 0;
     $head = 0;    
-    $wantedhead = 5;
+    $wantedhead = 6;
         
     echo "<p> Now we will keep tossing the coin until we get $wantedhead heads!</p>";
         
